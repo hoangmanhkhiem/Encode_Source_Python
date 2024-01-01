@@ -16,5 +16,31 @@ Bộ công cụ này giúp những nhà phát triển chia sẻ và côn
 
 - Quá trình được tái tạo 5 lớp chống unpack và decode file
 
+## SETUP
+
+## Setup
+
+```
+1. Clone the repository:
+> git clone https://github.com/hoangmanhkhiem/Encode_Source_Python.git
+
+2. Change into the project directory:
+> cd automatically-evaluate-teachers
+
+3. Create a virtual environment:
+> py -m venv venv
+
+4. Activate the virtual environment:
+> source venv/bin/activate (Linux)
+> venv\Scripts\activate (Windows)
+
+```
+
 ## RUN
+
+```
+USAGE : python encode.py -i input_file.py -o output_file.py
+```
+
+
 
