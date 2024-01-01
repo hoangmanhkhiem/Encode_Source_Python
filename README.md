@@ -36,10 +36,10 @@ Bộ công cụ này giúp những nhà phát triển chia sẻ và côn
 
 ```
 
-## RUN
+## USAGE
 
 ```
-USAGE : python encode.py -i input_file.py -o output_file.py
+python encode.py -i input_file.py -o output_file.py
 ```
 
 
