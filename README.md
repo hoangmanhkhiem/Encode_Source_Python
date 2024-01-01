@@ -25,7 +25,7 @@ Bộ công cụ này giúp những nhà phát triển chia sẻ và côn
 > git clone https://github.com/hoangmanhkhiem/Encode_Source_Python.git
 
 2. Change into the project directory:
-> cd automatically-evaluate-teachers
+> cd Encode_Source_Python
 
 3. Create a virtual environment:
 > py -m venv venv
